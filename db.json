@@ -1,14 +1,57 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{"highways_details":[
+  {
+  "qtd_passeio":10, 
+  "qtd_comercial":10, 
+  "registro_artesp":"120001000138",
+  "tp_pista":"PISI",
+  "nome_reduzido_rodovia":"SP100",
+  "sentido_pista":"O",
+  "ini_contagem":"2017-02-03 01:30:00",
+  "fim_contagem":"2017-02-03 01:45:00",
+  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
+  "nome_concessionaria":"Viaoeste",
+  "nome_rodovia":"Raposo Tavares",
+  “situação_transito”: 1,
+  “stream_ip”: "http://200.144.28.186:554/live?id=x",
+  “espia_aqui_pic”: "http://200.144.28.186:554/src/raposo15.jpeg",
+  "km_inicial":87,
+  "km_final":90
+  },
+  {
+  "qtd_passeio":20, 
+  "qtd_comercial":20, 
+  "registro_artesp":"120001000138",
+  "tp_pista":"PISI",
+  "nome_reduzido_rodovia":"SP200",
+  "sentido_pista":"O",
+  "ini_contagem":"2017-02-03 01:30:00",
+  "fim_contagem":"2017-02-03 01:45:00",
+  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
+  "nome_concessionaria":"Viaoeste",
+  "nome_rodovia":"Raposo Tavares",
+  “situacao_transito”: 3,
+  “stream_ip”: "http://200.144.28.186:554/live?id=x",
+  “espia_aqui_pic”: "http://200.144.28.186:554/src/raposo15.jpeg",
+  "km_inicial":87,
+  "km_final":90
+  },
+  {
+  "qtd_passeio":30, 
+  "qtd_comercial":30, 
+  "registro_artesp":"120001000138",
+  "tp_pista":"PISI",
+  "nome_reduzido_rodovia":"SP200",
+  "sentido_pista":"O",
+  "ini_contagem":"2017-02-03 01:30:00",
+  "fim_contagem":"2017-02-03 01:45:00",
+  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
+  "nome_concessionaria":"Viaoeste",
+  "nome_rodovia":"Raposo Tavares",
+  “situacao_transito”: 3,
+  “stream_ip”: "http://200.144.28.186:554/live?id=x",
+  “espia_aqui_pic”: "http://200.144.28.186:554/src/raposo15.jpeg",
+  "km_inicial":87,
+  "km_final":90
+  },
+]
 }
