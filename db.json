@@ -1,58 +1,1149 @@
 {
-  "highways_details":[
-  {
-  "qtd_passeio":10, 
-  "qtd_comercial":10, 
-  "registro_artesp":"12000100010",
-  "tp_pista":"PISI",
-  "nome_reduzido_rodovia":"SP100",
-  "sentido_pista":"O",
-  "ini_contagem":"2017-02-03 01:30:00",
-  "fim_contagem":"2017-02-03 01:45:00",
-  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
-  "nome_concessionaria":"Viaoeste",
-  "nome_rodovia":"Raposo Tavares",
-  "situacao_transito": 3,
-  "stream_ip": "http://admin:@192.168.48.32:8601/Interface/Cameras/GetJPEGStream?Camera=04&Width=1280&Height=720&Quality=100&FPS=30&ResponseFormat=Text",
-  "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
-  "km_inicial":87,
-  "km_final":90
-  },
-  {
-  "qtd_passeio":20, 
-  "qtd_comercial":20, 
-  "registro_artesp":"12000100020",
-  "tp_pista":"PISI",
-  "nome_reduzido_rodovia":"SP200",
-  "sentido_pista":"O",
-  "ini_contagem":"2017-02-03 01:30:00",
-  "fim_contagem":"2017-02-03 01:45:00",
-  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
-  "nome_concessionaria":"Viaoeste",
-  "nome_rodovia":"Imigrantes",
-  "situacao_transito": 3,
-  "stream_ip": "http://admin:@192.168.48.32:8601/Interface/Cameras/GetJPEGStream?Camera=04&Width=1280&Height=720&Quality=100&FPS=30&ResponseFormat=Text",
-  "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
-  "km_inicial":87,
-  "km_final":90
-  },
-  {
-  "qtd_passeio":30, 
-  "qtd_comercial":30, 
-  "registro_artesp":"12000100030",
-  "tp_pista":"PISI",
-  "nome_reduzido_rodovia":"SP200",
-  "sentido_pista":"O",
-  "ini_contagem":"2017-02-03 01:30:00",
-  "fim_contagem":"2017-02-03 01:45:00",
-  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
-  "nome_concessionaria":"Viaoeste",
-  "nome_rodovia":"Anchieta",
-  "situacao_transito": 3,
-  "stream_ip": "http://admin:@192.168.48.32:8601/Interface/Cameras/GetJPEGStream?Camera=04&Width=1280&Height=720&Quality=100&FPS=30&ResponseFormat=Text",
-  "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
-  "km_inicial":87,
-  "km_final":90
-  }
-]
+    "total": 27,
+    "max_score": null,
+    "hits": [
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV4a57guNzROdab956Os",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_901153203307368448",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVwhywBvPuzF_9mYkO1S",
+                    "campaign_id": 168,
+                    "source_id": "901153203307368448",
+                    "title": "Tweet",
+                    "body": "@thaisheredia Deus, por Odin,se #BDSP com Bocardi, etc.,conseguirem entender isso, dou a mão em palmatória.",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-08-25 15:44:02",
+                    "updated": "2017-08-25 15:44:02",
+                    "status": "active",
+                    "collaborator_name": "Ricardo S Almeida",
+                    "collaborator_profile_photo": "http://pbs.twimg.com/profile_images/820965907413565441/mshynk9L_normal.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-08-25 16:39:16",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1503679156000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV4a58jhNzROdab956Ot",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_901155394055286785",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVvZfRT2PuzF_9mYkM5a",
+                    "campaign_id": 168,
+                    "source_id": "901155394055286785",
+                    "title": "Tweet",
+                    "body": "Consolidados - GLOBO (23/08):\n\n#BDSP 9.8\n#BomDiaBrasil 11.3\n#MaisVocê 9.6\n#BemEstar 8.0\n#Encontro 8.0\n#SP1 12.8\n#GloboEsporte 11.7",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-08-25 15:52:47",
+                    "updated": "2017-08-25 15:52:47",
+                    "status": "active",
+                    "collaborator_name": "Dinho",
+                    "collaborator_profile_photo": "http://pbs.twimg.com/profile_images/842219306519781376/UxPS8u6f_normal.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-08-25 16:39:21",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1503679161000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV4a594JNzROdab956Ou",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_901155562989264896",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVvZfRT2PuzF_9mYkM5a",
+                    "campaign_id": 168,
+                    "source_id": "901155562989264896",
+                    "title": "Tweet",
+                    "body": "Consolidados - GLOBO (24/08):\n\n#BDSP 9.8\n#BomDiaBrasil 11.3\n#MaisVocê 9.6\n#BemEstar 8.0\n#Encontro 8.0\n#SP1 12.8\n#GloboEsporte 11.7",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-08-25 15:53:26",
+                    "updated": "2017-08-25 15:53:26",
+                    "status": "active",
+                    "collaborator_name": "Dinho",
+                    "collaborator_profile_photo": "http://pbs.twimg.com/profile_images/842219306519781376/UxPS8u6f_normal.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-08-25 16:39:26",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1503679166000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV4a8KUHNzROdab956O2",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_901109464551624706",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV2t57yBxgOQ0q3iXzNt",
+                    "campaign_id": 168,
+                    "source_id": "901109464551624706",
+                    "title": "Tweet",
+                    "body": "#sp1 até quando vamos ser redundantes.....",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-08-25 12:50:15",
+                    "updated": "2017-08-25 12:50:15",
+                    "status": "active",
+                    "collaborator_name": "marcosfrock",
+                    "collaborator_profile_photo": "http://pbs.twimg.com/profile_images/344513261577583790/d643b4b19392fb67c90812daf0b18f77_normal.jpeg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-08-25 16:49:01",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1503679741000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8wvYAXNzROdab956Wu",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920668785622835201",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV4J04p1xgOQ0q3iX6Q6",
+                    "campaign_id": 168,
+                    "source_id": "920668785622835201",
+                    "title": "Tweet",
+                    "body": "#Encontro #nfp #HojeEmDia #BomDiaBrasil #Bomdia #SP1 https://t.co/xkPRLnjx1h",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DMbfXvZWsAAZhNJ.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DMbfXvZWsAAZhNJ.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DMbfXvZWsAAZhNJ.jpg",
+                            "media_id": "823af464-cb3b-4f54-24b4-133ef1db0182"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 12:12:01",
+                    "updated": "2017-10-18 12:12:01",
+                    "status": "active",
+                    "collaborator_name": "KSaless",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV4J04p1xgOQ0q3iX6Q6_1508351260027.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:27:40",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508344060000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8wvchPYHm3XtJPQ_o0",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920663372974186497",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV4PrjyJoRdnH69i0PjP",
+                    "campaign_id": 168,
+                    "source_id": "920663372974186497",
+                    "title": "Tweet",
+                    "body": "Esse Samy Dana é fera! #SP1",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 11:50:30",
+                    "updated": "2017-10-18 11:50:30",
+                    "status": "active",
+                    "collaborator_name": "Rubens Júnior",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV4PrjyJoRdnH69i0PjP_1508351278544.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:27:58",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508344078000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8wvkFxNzROdab956Wv",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920662179870838784",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV0p8duGNu0IJ8BdHfQp",
+                    "campaign_id": 168,
+                    "source_id": "920662179870838784",
+                    "title": "Tweet",
+                    "body": "Meu trabalho, Tralli #sp1 https://t.co/kqo1caryC8",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DMbZW5XW0AEb9Fy.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DMbZW5XW0AEb9Fy.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DMbZW5XW0AEb9Fy.jpg",
+                            "media_id": "0126ae5e-01e3-4684-db04-36222d0d0d1c"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 11:45:48",
+                    "updated": "2017-10-18 11:45:48",
+                    "status": "active",
+                    "collaborator_name": "Ronald G. Dobenbeck",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV0p8duGNu0IJ8BdHfQp_1508351309531.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:28:29",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508344109000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8wvmR9YHm3XtJPQ_o1",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920661723438297093",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV0kGzLn8Eo_9KLO5knn",
+                    "campaign_id": 168,
+                    "source_id": "920661723438297093",
+                    "title": "Tweet",
+                    "body": "#sp1\nSó intervenção pode salvar o Brasil",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 11:43:58",
+                    "updated": "2017-10-18 11:43:58",
+                    "status": "active",
+                    "collaborator_name": "Cláudio nunes",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV0kGzLn8Eo_9KLO5knn_1508351318523.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:28:38",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508344118000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8wvucFYHm3XtJPQ_o2",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920580107181395968",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV8uw2BioRdnH69i0mAY",
+                    "campaign_id": 168,
+                    "source_id": "920580107181395968",
+                    "title": "Tweet",
+                    "body": "Tão  lindos e elegantes,amo vocês #BDSP https://t.co/zOAxjfxEsY",
+                    "medias": [
+                        {
+                            "media_type": "video/mp4",
+                            "media_url": "https://video.twimg.com/tweet_video/DMaOuKLW0AAtZpu.mp4",
+                            "original_media_url": "https://video.twimg.com/tweet_video/DMaOuKLW0AAtZpu.mp4",
+                            "media_size": 1,
+                            "media_type_filter": "video",
+                            "media_thumbnail": "http://pbs.twimg.com/tweet_video_thumb/DMaOuKLW0AAtZpu.jpg",
+                            "media_id": "f2cf7722-7343-4ef1-3603-9da8df3de421"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 06:19:36",
+                    "updated": "2017-10-18 06:19:36",
+                    "status": "active",
+                    "collaborator_name": "Bruna Cardoso",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8uw2BioRdnH69i0mAY_1508351351899.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:29:11",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508344151000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8wvvvINzROdab956Ww",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_919868960367108096",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVvX0Y9N6XTEO91nujYT",
+                    "campaign_id": 168,
+                    "source_id": "919868960367108096",
+                    "title": "Tweet",
+                    "body": "É por isto que amo o #bdsp https://t.co/fmWv7gHMl5",
+                    "medias": [
+                        {
+                            "media_type": "video/mp4",
+                            "media_url": "https://video.twimg.com/ext_tw_video/919864278064168960/pu/vid/318x180/Afg9a-vn9xgTKS5J.mp4",
+                            "original_media_url": "https://video.twimg.com/ext_tw_video/919864278064168960/pu/vid/318x180/Afg9a-vn9xgTKS5J.mp4",
+                            "media_size": 1,
+                            "media_type_filter": "video",
+                            "media_thumbnail": "http://pbs.twimg.com/ext_tw_video_thumb/919864278064168960/pu/img/8mh0zjkuo-6kqgpp.jpg",
+                            "media_id": "c60f78a5-4919-42aa-ec49-c175d0da0c96"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-16 07:13:47",
+                    "updated": "2017-10-16 07:13:47",
+                    "status": "active",
+                    "collaborator_name": "Allan Marques",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AVvX0Y9N6XTEO91nujYT_1508351357213.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:29:17",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508344157000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w07s4NzROdab956XD",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920299283580112897",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV8qyl8KxgOQ0q3iYP9v",
+                    "campaign_id": 168,
+                    "source_id": "920299283580112897",
+                    "title": "Tweet",
+                    "body": "#SP1 https://t.co/d17aNtHnv0",
+                    "medias": [
+                        {
+                            "media_type": "video/mp4",
+                            "media_url": "https://video.twimg.com/ext_tw_video/920298455263858688/pu/vid/320x180/ecaxa6PQzGQXLAkr.mp4",
+                            "original_media_url": "https://video.twimg.com/ext_tw_video/920298455263858688/pu/vid/320x180/ecaxa6PQzGQXLAkr.mp4",
+                            "media_size": 1,
+                            "media_type_filter": "video",
+                            "media_thumbnail": "http://pbs.twimg.com/ext_tw_video_thumb/920298455263858688/pu/img/pYx_yxZYBdxt3Ta2.jpg",
+                            "media_id": "a757275f-c668-4bed-eb9c-0bfda19dafa1"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-17 11:43:48",
+                    "updated": "2017-10-17 11:43:48",
+                    "status": "active",
+                    "collaborator_name": "Wagner Souza",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8qyl8KxgOQ0q3iYP9v_1508352716952.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:51:57",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508345517000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w1DkpYHm3XtJPQ_o7",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920580725488979968",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVzpvkeWPuzF_9mYkjmx",
+                    "campaign_id": 168,
+                    "source_id": "920580725488979968",
+                    "title": "Tweet",
+                    "body": "Bom dia Rodrigo você é o cara 👆🏻😂 #BDSP https://t.co/nfhg93xkDz",
+                    "location": {
+                        "full_name": "São Paulo, Brasil",
+                        "country": "Brasil"
+                    },
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DMaPSc7XkAA4RRm.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DMaPSc7XkAA4RRm.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DMaPSc7XkAA4RRm.jpg",
+                            "media_id": "07096548-fa78-4a3d-08cb-536beb3c7eb7"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 06:22:04",
+                    "updated": "2017-10-18 06:22:04",
+                    "status": "active",
+                    "collaborator_name": "Fabio Ribeiro",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AVzpvkeWPuzF_9mYkjmx_1508352749237.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:52:29",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508345549000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w1GtQNzROdab956XE",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920570929876434944",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV5ZMLzNoRdnH69i0RzQ",
+                    "campaign_id": 168,
+                    "source_id": "920570929876434944",
+                    "title": "Tweet",
+                    "body": "@g1sptv #BDSP @CesarTralli @BomDiaBrasil https://t.co/jtHfqEeyHD",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DMaGJEuXUAEao1H.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DMaGJEuXUAEao1H.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DMaGJEuXUAEao1H.jpg",
+                            "media_id": "b56d0a77-8045-4d0b-8454-254006699742"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 05:43:10",
+                    "updated": "2017-10-18 05:43:10",
+                    "status": "active",
+                    "collaborator_name": "Luciano Pedro",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV5ZMLzNoRdnH69i0RzQ_1508352761419.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:52:42",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508345562000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w1LSDYHm3XtJPQ_o8",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920574948531466240",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVvaThiv6XTEO91nuksi",
+                    "campaign_id": 168,
+                    "source_id": "920574948531466240",
+                    "title": "Tweet",
+                    "body": "Um poço de elegância dos nossos musos @rodrigobocardi e @gloria_vanique hein?\nSerá que amanhã teremos 19º? #BDSP https://t.co/l0NWBHhYED",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DMaJ2MAXcAA_4WI.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DMaJ2MAXcAA_4WI.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DMaJ2MAXcAA_4WI.jpg",
+                            "media_id": "8c7a1817-22cc-4660-513f-ed800a903512"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 05:59:06",
+                    "updated": "2017-10-18 05:59:06",
+                    "status": "active",
+                    "collaborator_name": "FC Rodrigo Bocardi",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AVvaThiv6XTEO91nuksi_1508352780796.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:53:00",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508345580000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w1YhCYHm3XtJPQ_o9",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920657368148561921",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV156Jsl6ni68xjvIJXj",
+                    "campaign_id": 168,
+                    "source_id": "920657368148561921",
+                    "title": "Tweet",
+                    "body": "Janelona pra São Paulo.😉 Como eu gosto desta sala de estar... E da sua visita no almoço. #SP1 https://t.co/B8raSPf2T2",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DMbU-d8XcAAIE_K.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DMbU-d8XcAAIE_K.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DMbU-d8XcAAIE_K.jpg",
+                            "media_id": "0c18d06e-3b45-4fe9-9395-11f51ecb34a4"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 11:26:39",
+                    "updated": "2017-10-18 11:26:39",
+                    "status": "active",
+                    "collaborator_name": "Cesar Tralli",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV156Jsl6ni68xjvIJXj_1508352834986.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:53:55",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508345635000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w1izrYHm3XtJPQ_o-",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "3_1473462192737896_1474142252669890",
+                    "input_type_id": 3,
+                    "input_id": 3,
+                    "collaborator_id": "AV8w0qVGxgOQ0q3iYQ7H",
+                    "campaign_id": 168,
+                    "source_id": "1473462192737896_1474142252669890",
+                    "title": "",
+                    "body": "Agora e muito tarde A onde se viu  maes deixarem crianças dessa idade brincar sozinha nas ruas .E triste mas serve de exemplo .Pra outras maes que tem o mesmo abito o mundo hoje esta corrompido.",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 15:50:32",
+                    "updated": "2017-10-18 15:50:32",
+                    "status": "active",
+                    "collaborator_name": "Neusa Oliveira",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8w0qVGxgOQ0q3iYQ7H_1508352877136.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 16:54:37",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508345677000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w3hYGNzROdab956XL",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "3_1473778016039647_1474145189336263",
+                    "input_type_id": 3,
+                    "input_id": 3,
+                    "collaborator_id": "AV8w1zo-xgOQ0q3iYQ7T",
+                    "campaign_id": 168,
+                    "source_id": "1473778016039647_1474145189336263",
+                    "title": "",
+                    "body": "Agora só falta o juiz libera e falar que não é estupro é atentado ao pudor .",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 15:55:32",
+                    "updated": "2017-10-18 15:55:32",
+                    "status": "active",
+                    "collaborator_name": "Rosana Ferrazzi Da Cunha",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8w1zo-xgOQ0q3iYQ7T_1508353395542.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 17:03:15",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508346195000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8w6ZXWNzROdab956XY",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "3_1473462192737896_1474155066001942",
+                    "input_type_id": 3,
+                    "input_id": 3,
+                    "collaborator_id": "AV8w5WkqxgOQ0q3iYQ76",
+                    "campaign_id": 168,
+                    "source_id": "1473462192737896_1474155066001942",
+                    "title": "",
+                    "body": "Ro Silva , Raquel de Melo , Jucilania Tavares",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 16:11:02",
+                    "updated": "2017-10-18 16:11:02",
+                    "status": "active",
+                    "collaborator_name": "Camila Silva",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8w5WkqxgOQ0q3iYQ76_1508354149179.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 17:15:49",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508346949000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8xE655NzROdab956Xq",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_919868960367108096",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVvX0Y9N6XTEO91nujYT",
+                    "campaign_id": 168,
+                    "source_id": "919868960367108096",
+                    "title": "Tweet",
+                    "body": "É por isto que amo o #bdsp https://t.co/fmWv7gHMl5",
+                    "medias": [
+                        {
+                            "media_type": "video/mp4",
+                            "media_url": "https://video.twimg.com/ext_tw_video/919864278064168960/pu/vid/318x180/Afg9a-vn9xgTKS5J.mp4",
+                            "original_media_url": "https://video.twimg.com/ext_tw_video/919864278064168960/pu/vid/318x180/Afg9a-vn9xgTKS5J.mp4",
+                            "media_size": 1,
+                            "media_type_filter": "video",
+                            "media_thumbnail": "http://pbs.twimg.com/ext_tw_video_thumb/919864278064168960/pu/img/8mh0zjkuo-6kqgpp.jpg",
+                            "media_id": "c60f78a5-4919-42aa-ec49-c175d0da0c96"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-16 07:13:47",
+                    "updated": "2017-10-16 07:13:47",
+                    "status": "active",
+                    "collaborator_name": "Allan Marques",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AVvX0Y9N6XTEO91nujYT_1508356908000.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 18:01:48",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508349708000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8xFKuWYHm3XtJPQ_pL",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_912631404902658048",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV690sGHxgOQ0q3iX-d6",
+                    "campaign_id": 168,
+                    "source_id": "912631404902658048",
+                    "title": "Tweet",
+                    "body": "Bom dia mas com muito sono #BDSP https://t.co/oa6d2thGzb",
+                    "medias": [
+                        {
+                            "media_type": "video/mp4",
+                            "media_url": "https://video.twimg.com/tweet_video/DKpRaxUXcAIDPnx.mp4",
+                            "original_media_url": "https://video.twimg.com/tweet_video/DKpRaxUXcAIDPnx.mp4",
+                            "media_size": 1,
+                            "media_type_filter": "video",
+                            "media_thumbnail": "http://pbs.twimg.com/tweet_video_thumb/DKpRaxUXcAIDPnx.jpg",
+                            "media_id": "e2354b73-9c24-4100-4795-caddaccf456c"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-09-26 07:54:20",
+                    "updated": "2017-09-26 07:54:20",
+                    "status": "active",
+                    "collaborator_name": "Marcelli Scorza",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV690sGHxgOQ0q3iX-d6_1508356972022.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 18:02:52",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508349772000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8xFaLTYHm3XtJPQ_pM",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "3_1473802856037163_1474185352665580",
+                    "input_type_id": 3,
+                    "input_id": 3,
+                    "collaborator_id": "AV8xFQaKoRdnH69i0mL0",
+                    "campaign_id": 168,
+                    "source_id": "1473802856037163_1474185352665580",
+                    "title": "",
+                    "body": "Acho que a Globo tem tara pelo Doria. Só procuram matéria para falar sobre ele. Já está ficando cansativo.",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 17:03:02",
+                    "updated": "2017-10-18 17:03:02",
+                    "status": "active",
+                    "collaborator_name": "Cecilia Granja Carmelo",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8xFQaKoRdnH69i0mL0_1508357036117.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 18:03:56",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508349836000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV8xGP8LYHm3XtJPQ_pN",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_920664181816397824",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV8v-dInxgOQ0q3iYQxW",
+                    "campaign_id": 168,
+                    "source_id": "920664181816397824",
+                    "title": "Tweet",
+                    "body": "#SP1, não existe \"Arena Palmeiras\"! O estádio se chama Alliance Parque!",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-10-18 11:53:44",
+                    "updated": "2017-10-18 11:53:44",
+                    "status": "active",
+                    "collaborator_name": "Cadu Lopes",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8v-dInxgOQ0q3iYQxW_1508357256323.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-10-18 18:07:36",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1508350056000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV-BzjkGYHm3XtJPQ_ra",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_926418060055072768",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV8N0xzLoRdnH69i0frL",
+                    "campaign_id": 168,
+                    "source_id": "926418060055072768",
+                    "title": "Retweet",
+                    "body": "RT @CesarTralli: Tem alguém aí? Bom dia!🌻#SP1 #plantãodoferiadão #fiqueempaz🙏🏻 https://t.co/XgVtfw2Uvt",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DNtMOD-XUAAYtL2.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DNtMOD-XUAAYtL2.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DNtMOD-XUAAYtL2.jpg",
+                            "media_id": "55a97ff3-5e35-403a-277b-c2a86c0a12d2"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-11-03 08:57:36",
+                    "updated": "2017-11-03 08:57:36",
+                    "status": "active",
+                    "collaborator_name": "Gabriel Menezes",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/profile_photo_AV8N0xzLoRdnH69i0frL_1509711312955.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-11-03 10:15:13",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1509704113000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV-BzmN9YHm3XtJPQ_rb",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_926354316180508672",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AVyTel2M6XTEO91nuux_",
+                    "campaign_id": 168,
+                    "source_id": "926354316180508672",
+                    "title": "Tweet",
+                    "body": "Maravilha o trânsito nessa manhã em SAMPA  #BDSP https://t.co/haBRlhNtNm",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DNsSNp7X4AAJBA3.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DNsSNp7X4AAJBA3.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DNsSNp7X4AAJBA3.jpg",
+                            "media_id": "c00301e5-a349-462f-eeec-feccef654442"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-11-03 04:44:16",
+                    "updated": "2017-11-03 04:44:16",
+                    "status": "active",
+                    "collaborator_name": "Dário Alves de Lima",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/profile_photo_AVyTel2M6XTEO91nuux__1509711323819.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-11-03 10:15:23",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1509704123000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV-B1-lpNzROdab956c2",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_926424979129774084",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV3ZD-ZBxgOQ0q3iX0BD",
+                    "campaign_id": 168,
+                    "source_id": "926424979129774084",
+                    "title": "Retweet",
+                    "body": "RT @Danitorresbr: #SP2 amamos conhecer o zumbi walk  Sampa e linda demais https://t.co/py3L8AZVYG",
+                    "medias": [
+                        {
+                            "media_type": "image/jpeg",
+                            "media_url": "http://pbs.twimg.com/media/DNqF4gOWsAAb9rr.jpg",
+                            "original_media_url": "http://pbs.twimg.com/media/DNqF4gOWsAAb9rr.jpg",
+                            "media_size": 1,
+                            "media_type_filter": "image",
+                            "media_thumbnail": "http://pbs.twimg.com/media/DNqF4gOWsAAb9rr.jpg",
+                            "media_id": "021585e8-73d8-4cd6-f147-1d2dd029d39d"
+                        }
+                    ],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-11-03 09:25:05",
+                    "updated": "2017-11-03 09:25:05",
+                    "status": "active",
+                    "collaborator_name": "Souv1397🍕™",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/profile_photo_AV3ZD-ZBxgOQ0q3iX0BD_1509711947932.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-11-03 10:25:48",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1509704748000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV-B5H0hYHm3XtJPQ_ri",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "3_1488396507911131_1488466681237447",
+                    "input_type_id": 3,
+                    "input_id": 3,
+                    "collaborator_id": "AVxy-Aw-PuzF_9mYkWly",
+                    "campaign_id": 168,
+                    "source_id": "1488396507911131_1488466681237447",
+                    "title": "",
+                    "body": "Por isso é bom vc ter uma placa falsa dentro do carro. Bateu vc joga e desaparece.",
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-11-03 09:37:48",
+                    "updated": "2017-11-03 09:37:48",
+                    "status": "active",
+                    "collaborator_name": "Fabio Bertazzo",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/profile_photo_AVxy-Aw-PuzF_9mYkWly_1509712772175.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-11-03 10:39:32",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1509705572000
+            ]
+        },
+        {
+            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
+            "_type": "message",
+            "_id": "AV-CZ0zfNzROdab956dF",
+            "_score": null,
+            "_source": {
+                "output_id": 4,
+                "output_type_id": 2,
+                "collaboration": {
+                    "id": "2_926464469424922629",
+                    "input_type_id": 2,
+                    "input_id": 2,
+                    "collaborator_id": "AV6qye3toRdnH69i0UD6",
+                    "campaign_id": 168,
+                    "source_id": "926464469424922629",
+                    "title": "Tweet",
+                    "body": "#sp1 #sp2 feriado em sp, bom demais",
+                    "location": {
+                        "full_name": "São Paulo, Brasil",
+                        "country": "Brasil",
+                        "coordinates": {
+                            "type": "multilinestring",
+                            "coordinates": [
+                                [
+                                    [
+                                        -46.826039,
+                                        -24.008814
+                                    ],
+                                    [
+                                        -46.826039,
+                                        -23.356792
+                                    ],
+                                    [
+                                        -46.365052,
+                                        -23.356792
+                                    ],
+                                    [
+                                        -46.365052,
+                                        -24.008814
+                                    ]
+                                ]
+                            ]
+                        }
+                    },
+                    "medias": [],
+                    "campaign_rule": "n0",
+                    "situation": "approved",
+                    "created": "2017-11-03 12:01:59",
+                    "updated": "2017-11-03 12:01:59",
+                    "status": "active",
+                    "collaborator_name": "Amanda Sousa",
+                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/profile_photo_AV6qye3toRdnH69i0UD6_1509721345050.jpg",
+                    "collaborator_email": "",
+                    "collaborator_primary_phone": "",
+                    "collaborator_secundary_phone": ""
+                },
+                "queue_date": "2017-11-03 13:02:25",
+                "queue_status": "ready"
+            },
+            "sort": [
+                1509714145000
+            ]
+        }
+    ]
 }
