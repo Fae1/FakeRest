@@ -1,79 +1,7 @@
 {
-    "total": 27,
+    "total": 22,
     "max_score": null,
     "hits": [
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV4a57guNzROdab956Os",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "2_901153203307368448",
-                    "input_type_id": 2,
-                    "input_id": 2,
-                    "collaborator_id": "AVwhywBvPuzF_9mYkO1S",
-                    "campaign_id": 168,
-                    "source_id": "901153203307368448",
-                    "title": "Tweet",
-                    "body": "@thaisheredia Deus, por Odin,se #BDSP com Bocardi, etc.,conseguirem entender isso, dou a mão em palmatória.",
-                    "medias": [],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-08-25 15:44:02",
-                    "updated": "2017-08-25 15:44:02",
-                    "status": "active",
-                    "collaborator_name": "Ricardo S Almeida",
-                    "collaborator_profile_photo": "http://pbs.twimg.com/profile_images/820965907413565441/mshynk9L_normal.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-08-25 16:39:16",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1503679156000
-            ]
-        },
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV4a58jhNzROdab956Ot",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "2_901155394055286785",
-                    "input_type_id": 2,
-                    "input_id": 2,
-                    "collaborator_id": "AVvZfRT2PuzF_9mYkM5a",
-                    "campaign_id": 168,
-                    "source_id": "901155394055286785",
-                    "title": "Tweet",
-                    "body": "Consolidados - GLOBO (23/08):\n\n#BDSP 9.8\n#BomDiaBrasil 11.3\n#MaisVocê 9.6\n#BemEstar 8.0\n#Encontro 8.0\n#SP1 12.8\n#GloboEsporte 11.7",
-                    "medias": [],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-08-25 15:52:47",
-                    "updated": "2017-08-25 15:52:47",
-                    "status": "active",
-                    "collaborator_name": "Dinho",
-                    "collaborator_profile_photo": "http://pbs.twimg.com/profile_images/842219306519781376/UxPS8u6f_normal.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-08-25 16:39:21",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1503679161000
-            ]
-        },
         {
             "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
             "_type": "message",
@@ -839,78 +767,6 @@
         {
             "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
             "_type": "message",
-            "_id": "AV8xFaLTYHm3XtJPQ_pM",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "3_1473802856037163_1474185352665580",
-                    "input_type_id": 3,
-                    "input_id": 3,
-                    "collaborator_id": "AV8xFQaKoRdnH69i0mL0",
-                    "campaign_id": 168,
-                    "source_id": "1473802856037163_1474185352665580",
-                    "title": "",
-                    "body": "Acho que a Globo tem tara pelo Doria. Só procuram matéria para falar sobre ele. Já está ficando cansativo.",
-                    "medias": [],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-10-18 17:03:02",
-                    "updated": "2017-10-18 17:03:02",
-                    "status": "active",
-                    "collaborator_name": "Cecilia Granja Carmelo",
-                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8xFQaKoRdnH69i0mL0_1508357036117.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-10-18 18:03:56",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1508349836000
-            ]
-        },
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV8xGP8LYHm3XtJPQ_pN",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "2_920664181816397824",
-                    "input_type_id": 2,
-                    "input_id": 2,
-                    "collaborator_id": "AV8v-dInxgOQ0q3iYQxW",
-                    "campaign_id": 168,
-                    "source_id": "920664181816397824",
-                    "title": "Tweet",
-                    "body": "#SP1, não existe \"Arena Palmeiras\"! O estádio se chama Alliance Parque!",
-                    "medias": [],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-10-18 11:53:44",
-                    "updated": "2017-10-18 11:53:44",
-                    "status": "active",
-                    "collaborator_name": "Cadu Lopes",
-                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8v-dInxgOQ0q3iYQxW_1508357256323.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-10-18 18:07:36",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1508350056000
-            ]
-        },
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
             "_id": "AV-BzjkGYHm3XtJPQ_ra",
             "_score": null,
             "_source": {
@@ -1044,42 +900,6 @@
             },
             "sort": [
                 1509704748000
-            ]
-        },
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV-B5H0hYHm3XtJPQ_ri",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "3_1488396507911131_1488466681237447",
-                    "input_type_id": 3,
-                    "input_id": 3,
-                    "collaborator_id": "AVxy-Aw-PuzF_9mYkWly",
-                    "campaign_id": 168,
-                    "source_id": "1488396507911131_1488466681237447",
-                    "title": "",
-                    "body": "Por isso é bom vc ter uma placa falsa dentro do carro. Bateu vc joga e desaparece.",
-                    "medias": [],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-11-03 09:37:48",
-                    "updated": "2017-11-03 09:37:48",
-                    "status": "active",
-                    "collaborator_name": "Fabio Bertazzo",
-                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/profile_photo_AVxy-Aw-PuzF_9mYkWly_1509712772175.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-11-03 10:39:32",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1509705572000
             ]
         },
         {
