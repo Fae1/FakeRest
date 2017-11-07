@@ -1,207 +1,58 @@
 {
-    "total": 4,
-    "max_score": null,
-    "hits": [
-         {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV8wvucFYHm3XtJPQ_o2",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "2_920580107181395968",
-                    "input_type_id": 2,
-                    "input_id": 2,
-                    "collaborator_id": "AV8uw2BioRdnH69i0mAY",
-                    "campaign_id": 168,
-                    "source_id": "920580107181395968",
-                    "title": "Tweet",
-                    "body": "Tão  lindos e elegantes,amo vocês #BDSP https://t.co/zOAxjfxEsY",
-                    "medias": [
-                        {
-                            "media_type": "video/mp4",
-                            "media_url": "https://video.twimg.com/tweet_video/DMaOuKLW0AAtZpu.mp4",
-                            "original_media_url": "https://video.twimg.com/tweet_video/DMaOuKLW0AAtZpu.mp4",
-                            "media_size": 1,
-                            "media_type_filter": "video",
-                            "media_thumbnail": "http://pbs.twimg.com/tweet_video_thumb/DMaOuKLW0AAtZpu.jpg",
-                            "media_id": "f2cf7722-7343-4ef1-3603-9da8df3de421"
-                        }
-                    ],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-10-18 06:19:36",
-                    "updated": "2017-10-18 06:19:36",
-                    "status": "active",
-                    "collaborator_name": "Bruna Cardoso",
-                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8uw2BioRdnH69i0mAY_1508351351899.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-10-18 16:29:11",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1508344151000
-            ]
-        },
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV8wvvvINzROdab956Ww",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "2_919868960367108096",
-                    "input_type_id": 2,
-                    "input_id": 2,
-                    "collaborator_id": "AVvX0Y9N6XTEO91nujYT",
-                    "campaign_id": 168,
-                    "source_id": "919868960367108096",
-                    "title": "Tweet",
-                    "body": "É por isto que amo o #bdsp https://t.co/fmWv7gHMl5",
-                    "medias": [
-                        {
-                            "media_type": "video/mp4",
-                            "media_url": "https://video.twimg.com/ext_tw_video/919864278064168960/pu/vid/318x180/Afg9a-vn9xgTKS5J.mp4",
-                            "original_media_url": "https://video.twimg.com/ext_tw_video/919864278064168960/pu/vid/318x180/Afg9a-vn9xgTKS5J.mp4",
-                            "media_size": 1,
-                            "media_type_filter": "video",
-                            "media_thumbnail": "http://pbs.twimg.com/ext_tw_video_thumb/919864278064168960/pu/img/8mh0zjkuo-6kqgpp.jpg",
-                            "media_id": "c60f78a5-4919-42aa-ec49-c175d0da0c96"
-                        }
-                    ],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-10-16 07:13:47",
-                    "updated": "2017-10-16 07:13:47",
-                    "status": "active",
-                    "collaborator_name": "Allan Marques",
-                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AVvX0Y9N6XTEO91nujYT_1508351357213.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-10-18 16:29:17",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1508344157000
-            ]
-        },
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV8w07s4NzROdab956XD",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "2_920299283580112897",
-                    "input_type_id": 2,
-                    "input_id": 2,
-                    "collaborator_id": "AV8qyl8KxgOQ0q3iYP9v",
-                    "campaign_id": 168,
-                    "source_id": "920299283580112897",
-                    "title": "Tweet",
-                    "body": "#SP1 https://t.co/d17aNtHnv0",
-                    "medias": [
-                        {
-                            "media_type": "video/mp4",
-                            "media_url": "https://video.twimg.com/ext_tw_video/920298455263858688/pu/vid/320x180/ecaxa6PQzGQXLAkr.mp4",
-                            "original_media_url": "https://video.twimg.com/ext_tw_video/920298455263858688/pu/vid/320x180/ecaxa6PQzGQXLAkr.mp4",
-                            "media_size": 1,
-                            "media_type_filter": "video",
-                            "media_thumbnail": "http://pbs.twimg.com/ext_tw_video_thumb/920298455263858688/pu/img/pYx_yxZYBdxt3Ta2.jpg",
-                            "media_id": "a757275f-c668-4bed-eb9c-0bfda19dafa1"
-                        }
-                    ],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-10-17 11:43:48",
-                    "updated": "2017-10-17 11:43:48",
-                    "status": "active",
-                    "collaborator_name": "Wagner Souza",
-                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/AV8qyl8KxgOQ0q3iYP9v_1508352716952.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-10-18 16:51:57",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1508345517000
-            ]
-        },
-        {
-            "_index": "ezluatf2ju4mkxjwv3vm11yfcrq8syjr8q89wu89_v1",
-            "_type": "message",
-            "_id": "AV-CZ0zfNzROdab956dF",
-            "_score": null,
-            "_source": {
-                "output_id": 4,
-                "output_type_id": 2,
-                "collaboration": {
-                    "id": "2_926464469424922629",
-                    "input_type_id": 2,
-                    "input_id": 2,
-                    "collaborator_id": "AV6qye3toRdnH69i0UD6",
-                    "campaign_id": 168,
-                    "source_id": "926464469424922629",
-                    "title": "Tweet",
-                    "body": "#sp1 #sp2 feriado em sp, bom demais",
-                    "location": {
-                        "full_name": "São Paulo, Brasil",
-                        "country": "Brasil",
-                        "coordinates": {
-                            "type": "multilinestring",
-                            "coordinates": [
-                                [
-                                    [
-                                        -46.826039,
-                                        -24.008814
-                                    ],
-                                    [
-                                        -46.826039,
-                                        -23.356792
-                                    ],
-                                    [
-                                        -46.365052,
-                                        -23.356792
-                                    ],
-                                    [
-                                        -46.365052,
-                                        -24.008814
-                                    ]
-                                ]
-                            ]
-                        }
-                    },
-                    "medias": [],
-                    "campaign_rule": "n0",
-                    "situation": "approved",
-                    "created": "2017-11-03 12:01:59",
-                    "updated": "2017-11-03 12:01:59",
-                    "status": "active",
-                    "collaborator_name": "Amanda Sousa",
-                    "collaborator_profile_photo": "https://novo-colaborativo-prod.s3.amazonaws.com/profile_photo_AV6qye3toRdnH69i0UD6_1509721345050.jpg",
-                    "collaborator_email": "",
-                    "collaborator_primary_phone": "",
-                    "collaborator_secundary_phone": ""
-                },
-                "queue_date": "2017-11-03 13:02:25",
-                "queue_status": "ready"
-            },
-            "sort": [
-                1509714145000
-            ]
-        }
-    ]
+  "highways_details":[
+  {
+  "qtd_passeio":10, 
+  "qtd_comercial":10, 
+  "registro_artesp":"12000100010",
+  "tp_pista":"PISI",
+  "nome_reduzido_rodovia":"SP100",
+  "sentido_pista":"O",
+  "ini_contagem":"2017-02-03 01:30:00",
+  "fim_contagem":"2017-02-03 01:45:00",
+  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
+  "nome_concessionaria":"Viaoeste",
+  "nome_rodovia":"Raposo Tavares",
+  "situacao_transito": 3,
+  "stream_ip": "http://admin:@192.168.48.32:8601/Interface/Cameras/GetJPEGStream?Camera=04&Width=1280&Height=720&Quality=100&FPS=30&ResponseFormat=Text",
+  "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
+  "km_inicial":87,
+  "km_final":90
+  },
+  {
+  "qtd_passeio":20, 
+  "qtd_comercial":20, 
+  "registro_artesp":"12000100020",
+  "tp_pista":"PISI",
+  "nome_reduzido_rodovia":"SP200",
+  "sentido_pista":"O",
+  "ini_contagem":"2017-02-03 01:30:00",
+  "fim_contagem":"2017-02-03 01:45:00",
+  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
+  "nome_concessionaria":"Viaoeste",
+  "nome_rodovia":"Imigrantes",
+  "situacao_transito": 3,
+  "stream_ip": "http://admin:@192.168.48.32:8601/Interface/Cameras/GetJPEGStream?Camera=04&Width=1280&Height=720&Quality=100&FPS=30&ResponseFormat=Text",
+  "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
+  "km_inicial":87,
+  "km_final":90
+  },
+  {
+  "qtd_passeio":30, 
+  "qtd_comercial":30, 
+  "registro_artesp":"12000100030",
+  "tp_pista":"PISI",
+  "nome_reduzido_rodovia":"SP200",
+  "sentido_pista":"O",
+  "ini_contagem":"2017-02-03 01:30:00",
+  "fim_contagem":"2017-02-03 01:45:00",
+  "localizacao":"Linestring(-47.35714 -23.5101,-47.36542 -23.50640)",
+  "nome_concessionaria":"Viaoeste",
+  "nome_rodovia":"Anchieta",
+  "situacao_transito": 3,
+  "stream_ip": "https://video.twimg.com/tweet_video/DMaOuKLW0AAtZpu.mp4",
+  "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
+  "km_inicial":87,
+  "km_final":90
+  }
+]
 }
