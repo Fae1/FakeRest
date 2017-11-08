@@ -15,6 +15,7 @@
   "situacao_transito": 3,
   "stream_ip": "http://admin:@192.168.48.32:8601/Interface/Cameras/GetJPEGStream?Camera=04&Width=1280&Height=720&Quality=100&FPS=30&ResponseFormat=Text",
   "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
+  "mime_type": "video/mp4",
   "km_inicial":87,
   "km_final":90
   },
@@ -33,6 +34,7 @@
   "situacao_transito": 3,
   "stream_ip": "http://admin:@192.168.48.32:8601/Interface/Cameras/GetJPEGStream?Camera=04&Width=1280&Height=720&Quality=100&FPS=30&ResponseFormat=Text",
   "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
+  "mime_type": "video/mp4",
   "km_inicial":87,
   "km_final":90
   },
@@ -51,6 +53,7 @@
   "situacao_transito": 3,
   "stream_ip": "https://video.twimg.com/tweet_video/DMaOuKLW0AAtZpu.mp4",
   "espia_aqui_pic": "http://static.regon.hu/ma/2017/02/autopalym3.jpg",
+  "mime_type": "video/mp4",
   "km_inicial":87,
   "km_final":90
   }
